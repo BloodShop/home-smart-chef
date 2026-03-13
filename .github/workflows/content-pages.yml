@@ -1,0 +1,55 @@
+name: HomeSmartChef Content Pages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 0 * * *'
+  push:
+    paths:
+      - 'content/**'
+      - 'scripts/refresh-content.mjs'
+      - 'src/data/seed-pack.json'
+      - '.github/workflows/content-pages.yml'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: home-smart-chef-content-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Refresh content manifest
+        run: npm run content:refresh
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload content artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: content
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

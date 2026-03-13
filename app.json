@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "HomeSmartChef",
+    "slug": "home-smart-chef",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "home-smart-chef",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.homesmartchef.app"
+    },
+    "android": {
+      "package": "com.homesmartchef.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {},
+      "contentBaseUrl": "https://bloodshop.github.io/home-smart-chef",
+      "feedbackEndpoint": "",
+      "eas": {
+        "projectId": "cc982ad3-d8c7-41cf-b0ca-3d44bb2c6568"
+      }
+    }
+  }
+}

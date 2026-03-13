@@ -1,0 +1,11 @@
+{
+  "version": "2026-03-13-content",
+  "generatedAt": "2026-03-13T17:26:40.622Z",
+  "packs": [
+    {
+      "id": "daily-he-latest",
+      "version": "2026-03-13-daily-he-latest",
+      "url": "packs/daily-he-latest.json"
+    }
+  ]
+}

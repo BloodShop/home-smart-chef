@@ -1,0 +1,1117 @@
+{
+  "id": "seed-he-v1",
+  "version": "2026-03-13-seed-v1",
+  "generatedAt": "2026-03-13T17:11:14.238Z",
+  "recipes": [
+    {
+      "id": "r1",
+      "titleHe": "שקשוקה קלאסית",
+      "titleEn": "Classic Shakshuka",
+      "descriptionHe": "ביצים מבושלות ברוטב עגבניות עשיר עם ירקות ותבלינים",
+      "descriptionEn": "Eggs poached in rich tomato sauce with vegetables and spices",
+      "mealType": "breakfast",
+      "cuisineType": "middle-eastern",
+      "dietaryTags": [
+        "vegetarian",
+        "kosher"
+      ],
+      "prepTimeMinutes": 25,
+      "servings": 2,
+      "ingredients": [
+        {
+          "nameHe": "עגבניות",
+          "nameEn": "Tomatoes",
+          "amount": "4 גדולות"
+        },
+        {
+          "nameHe": "ביצים",
+          "nameEn": "Eggs",
+          "amount": "4 יחידות"
+        },
+        {
+          "nameHe": "פלפל אדום",
+          "nameEn": "Red bell pepper",
+          "amount": "1 יחידה"
+        },
+        {
+          "nameHe": "בצל",
+          "nameEn": "Onion",
+          "amount": "1 יחידה"
+        },
+        {
+          "nameHe": "שום",
+          "nameEn": "Garlic",
+          "amount": "3 שיני"
+        },
+        {
+          "nameHe": "שמן זית",
+          "nameEn": "Olive oil",
+          "amount": "3 כפות"
+        },
+        {
+          "nameHe": "פפריקה",
+          "nameEn": "Paprika",
+          "amount": "1 כפית"
+        },
+        {
+          "nameHe": "כמון",
+          "nameEn": "Cumin",
+          "amount": "½ כפית"
+        },
+        {
+          "nameHe": "מלח ופלפל",
+          "nameEn": "Salt & pepper",
+          "amount": "לפי טעם"
+        }
+      ],
+      "stepsHe": [
+        "חממו שמן זית במחבת על אש בינונית",
+        "טגנו בצל קצוץ עד שיזהיב (כ-5 דקות)",
+        "הוסיפו שום ופלפל קצוצים, טגנו 2 דקות נוספות",
+        "הוסיפו עגבניות קצוצות, פפריקה, כמון, מלח ופלפל",
+        "בשלו 10 דקות על אש בינונית עד שהרוטב יסמיך",
+        "צרו 4 גומחות ברוטב ושברו ביצה לכל גומחה",
+        "כסו ובשלו 5-7 דקות עד שהביצים מוכנות",
+        "הגישו עם לחם טרי"
+      ],
+      "stepsEn": [
+        "Heat olive oil in a pan over medium heat",
+        "Sauté chopped onion until golden (about 5 minutes)",
+        "Add garlic and bell pepper, cook 2 more minutes",
+        "Add chopped tomatoes, paprika, cumin, salt and pepper",
+        "Simmer 10 minutes until sauce thickens",
+        "Create 4 wells in the sauce and crack an egg into each",
+        "Cover and cook 5-7 minutes until eggs are set",
+        "Serve with fresh bread"
+      ]
+    },
+    {
+      "id": "r2",
+      "titleHe": "שייק בוקר בריא",
+      "titleEn": "Healthy Morning Smoothie",
+      "descriptionHe": "שייק מרענן עם פירות, יוגורט ודבש לתחילת יום אנרגטית",
+      "descriptionEn": "Refreshing smoothie with fruits, yogurt and honey for an energetic start",
+      "mealType": "breakfast",
+      "cuisineType": "mediterranean",
+      "dietaryTags": [
+        "vegetarian"
+      ],
+      "prepTimeMinutes": 5,
+      "servings": 2,
+      "ingredients": [
+        {
+          "nameHe": "בננה",
+          "nameEn": "Banana",
+          "amount": "2 יחידות"
+        },
+        {
+          "nameHe": "תות שדה",
+          "nameEn": "Strawberries",
+          "amount": "200 גרם"
+        },
+        {
+          "nameHe": "יוגורט יווני",
+          "nameEn": "Greek yogurt",
+          "amount": "200 גרם"
+        },
+        {
+          "nameHe": "דבש",
+          "nameEn": "Honey",
+          "amount": "2 כפות"
+        },
+        {
+          "nameHe": "חלב",
+          "nameEn": "Milk",
+          "amount": "½ כוס"
+        }
+      ],
+      "stepsHe": [
+        "קלפו בננות וחתכו לחתיכות",
+        "שטפו תותים וסלקו עוקצות",
+        "שימו את כל המרכיבים בבלנדר",
+        "הפעילו על מהירות גבוהה למשך 1-2 דקות",
+        "מזגו לכוסות והגישו מיד"
+      ],
+      "stepsEn": [
+        "Peel and chop bananas",
+        "Wash and hull strawberries",
+        "Place all ingredients in a blender",
+        "Blend on high speed for 1-2 minutes",
+        "Pour into glasses and serve immediately"
+      ]
+    },
+    {
+      "id": "r3",
+      "titleHe": "ביצים מקושקשות עם גבינה",
+      "titleEn": "Scrambled Eggs with Cheese",
+      "descriptionHe": "ביצים מקושקשות קרמיות עם גבינה צהובה ועשבי תיבול",
+      "descriptionEn": "Creamy scrambled eggs with yellow cheese and fresh herbs",
+      "mealType": "breakfast",
+      "cuisineType": "american",
+      "dietaryTags": [
+        "vegetarian",
+        "kosher"
+      ],
+      "prepTimeMinutes": 10,
+      "servings": 2,
+      "ingredients": [
+        {
+          "nameHe": "ביצים",
+          "nameEn": "Eggs",
+          "amount": "4 יחידות"
+        },
+        {
+          "nameHe": "גבינה צהובה",
+          "nameEn": "Yellow cheese",
+          "amount": "50 גרם"
+        },
+        {
+          "nameHe": "חמאה",
+          "nameEn": "Butter",
+          "amount": "1 כף"
+        },
+        {
+          "nameHe": "מלח ופלפל",
+          "nameEn": "Salt & pepper",
+          "amount": "לפי טעם"
+        },
+        {
+          "nameHe": "בצל ירוק",
+          "nameEn": "Green onion",
+          "amount": "2 גבעולים"
+        }
+      ],
+      "stepsHe": [
+        "טרפו ביצים עם מלח ופלפל",
+        "המיסו חמאה במחבת על אש נמוכה",
+        "הוסיפו ביצים וערבבו לאט",
+        "הוסיפו גבינה מגוררת לפני שהביצים מוכנות לגמרי",
+        "קשטו עם בצל ירוק קצוץ"
+      ],
+      "stepsEn": [
+        "Whisk eggs with salt and pepper",
+        "Melt butter in a pan over low heat",
+        "Add eggs and stir slowly",
+        "Add grated cheese before eggs are fully cooked",
+        "Garnish with chopped green onion"
+      ]
+    },
+    {
+      "id": "r4",
+      "titleHe": "סלט ישראלי קלאסי",
+      "titleEn": "Classic Israeli Salad",
+      "descriptionHe": "סלט עגבניות ומלפפפון קצוץ דק עם שמן זית ולימון",
+      "descriptionEn": "Finely diced tomato and cucumber salad with olive oil and lemon",
+      "mealType": "lunch",
+      "cuisineType": "mediterranean",
+      "dietaryTags": [
+        "vegan",
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 10,
+      "servings": 4,
+      "ingredients": [
+        {
+          "nameHe": "עגבניות",
+          "nameEn": "Tomatoes",
+          "amount": "4 גדולות"
+        },
+        {
+          "nameHe": "מלפפון",
+          "nameEn": "Cucumber",
+          "amount": "2 יחידות"
+        },
+        {
+          "nameHe": "בצל",
+          "nameEn": "Onion",
+          "amount": "½ יחידה"
+        },
+        {
+          "nameHe": "פלפל ירוק",
+          "nameEn": "Green pepper",
+          "amount": "1 יחידה"
+        },
+        {
+          "nameHe": "שמן זית",
+          "nameEn": "Olive oil",
+          "amount": "3 כפות"
+        },
+        {
+          "nameHe": "לימון",
+          "nameEn": "Lemon",
+          "amount": "½ יחידה"
+        },
+        {
+          "nameHe": "פטרוזיליה",
+          "nameEn": "Parsley",
+          "amount": "חופן"
+        },
+        {
+          "nameHe": "מלח",
+          "nameEn": "Salt",
+          "amount": "לפי טעם"
+        }
+      ],
+      "stepsHe": [
+        "קצצו עגבניות, מלפפון, בצל ופלפל לקוביות קטנות",
+        "ערבבו את כל הירקות הקצוצים",
+        "הוסיפו שמן זית ומיץ לימון",
+        "קשטו עם פטרוזיליה קצוצה",
+        "תבלו במלח ופלפל לפי טעם"
+      ],
+      "stepsEn": [
+        "Finely dice tomatoes, cucumber, onion and pepper",
+        "Mix all diced vegetables",
+        "Add olive oil and lemon juice",
+        "Garnish with chopped parsley",
+        "Season with salt and pepper to taste"
+      ]
+    },
+    {
+      "id": "r5",
+      "titleHe": "פסטה ברוטב עגבניות",
+      "titleEn": "Pasta in Tomato Sauce",
+      "descriptionHe": "פסטה עם רוטב עגבניות הביתי הקלאסי עם שום ובזיליקום",
+      "descriptionEn": "Pasta with classic homemade tomato sauce with garlic and basil",
+      "mealType": "lunch",
+      "cuisineType": "italian",
+      "dietaryTags": [
+        "vegan",
+        "kosher"
+      ],
+      "prepTimeMinutes": 30,
+      "servings": 4,
+      "ingredients": [
+        {
+          "nameHe": "פסטה",
+          "nameEn": "Pasta",
+          "amount": "400 גרם"
+        },
+        {
+          "nameHe": "עגבניות מרוסקות",
+          "nameEn": "Crushed tomatoes",
+          "amount": "800 גרם"
+        },
+        {
+          "nameHe": "שום",
+          "nameEn": "Garlic",
+          "amount": "4 שיני"
+        },
+        {
+          "nameHe": "שמן זית",
+          "nameEn": "Olive oil",
+          "amount": "4 כפות"
+        },
+        {
+          "nameHe": "בזיליקום",
+          "nameEn": "Basil",
+          "amount": "חופן עלים"
+        },
+        {
+          "nameHe": "מלח ופלפל",
+          "nameEn": "Salt & pepper",
+          "amount": "לפי טעם"
+        },
+        {
+          "nameHe": "סוכר",
+          "nameEn": "Sugar",
+          "amount": "1 כפית"
+        }
+      ],
+      "stepsHe": [
+        "בשלו פסטה בהתאם להוראות האריזה",
+        "טגנו שום כתוש בשמן זית 1 דקה",
+        "הוסיפו עגבניות מרוסקות, סוכר, מלח ופלפל",
+        "בשלו 15-20 דקות על אש בינונית",
+        "ערבבו עם פסטה מסוננת",
+        "קשטו עם עלי בזיליקום טרי"
+      ],
+      "stepsEn": [
+        "Cook pasta according to package instructions",
+        "Sauté crushed garlic in olive oil for 1 minute",
+        "Add crushed tomatoes, sugar, salt and pepper",
+        "Simmer 15-20 minutes on medium heat",
+        "Toss with drained pasta",
+        "Garnish with fresh basil leaves"
+      ]
+    },
+    {
+      "id": "r6",
+      "titleHe": "עוף בתנור עם ירקות",
+      "titleEn": "Oven Roasted Chicken with Vegetables",
+      "descriptionHe": "עוף שלם צלוי בתנור עם ירקות שורש וצמחי תיבול",
+      "descriptionEn": "Whole roasted chicken with root vegetables and herbs",
+      "mealType": "lunch",
+      "cuisineType": "mediterranean",
+      "dietaryTags": [
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 90,
+      "servings": 6,
+      "ingredients": [
+        {
+          "nameHe": "עוף שלם",
+          "nameEn": "Whole chicken",
+          "amount": "1.5 ק\"ג"
+        },
+        {
+          "nameHe": "תפוחי אדמה",
+          "nameEn": "Potatoes",
+          "amount": "4 גדולים"
+        },
+        {
+          "nameHe": "גזר",
+          "nameEn": "Carrots",
+          "amount": "4 יחידות"
+        },
+        {
+          "nameHe": "בצל",
+          "nameEn": "Onion",
+          "amount": "2 יחידות"
+        },
+        {
+          "nameHe": "שום",
+          "nameEn": "Garlic",
+          "amount": "1 ראש שלם"
+        },
+        {
+          "nameHe": "שמן זית",
+          "nameEn": "Olive oil",
+          "amount": "4 כפות"
+        },
+        {
+          "nameHe": "רוזמרין",
+          "nameEn": "Rosemary",
+          "amount": "3 ענפים"
+        },
+        {
+          "nameHe": "פפריקה מעושנת",
+          "nameEn": "Smoked paprika",
+          "amount": "2 כפיות"
+        }
+      ],
+      "stepsHe": [
+        "חממו תנור ל-200 מעלות",
+        "שפשפו עוף בשמן זית, פפריקה, מלח ופלפל",
+        "קצצו ירקות לחתיכות גדולות",
+        "הניחו ירקות בתבנית ושימו עוף מעל",
+        "הוסיפו רוזמרין ושום שלם",
+        "צלו 80-90 דקות עד שהעוף מוזהב וצלוי"
+      ],
+      "stepsEn": [
+        "Preheat oven to 200°C",
+        "Rub chicken with olive oil, paprika, salt and pepper",
+        "Chop vegetables into large pieces",
+        "Place vegetables in a baking dish and put chicken on top",
+        "Add rosemary and whole garlic",
+        "Roast 80-90 minutes until chicken is golden and cooked through"
+      ]
+    },
+    {
+      "id": "r7",
+      "titleHe": "מרק עוף עם ירקות",
+      "titleEn": "Chicken Soup with Vegetables",
+      "descriptionHe": "מרק עוף מסורתי עם ירקות טריים - מנחם ומזין",
+      "descriptionEn": "Traditional chicken soup with fresh vegetables - comforting and nourishing",
+      "mealType": "lunch",
+      "cuisineType": "middle-eastern",
+      "dietaryTags": [
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 120,
+      "servings": 8,
+      "ingredients": [
+        {
+          "nameHe": "כרעי עוף",
+          "nameEn": "Chicken legs",
+          "amount": "1 ק\"ג"
+        },
+        {
+          "nameHe": "גזר",
+          "nameEn": "Carrots",
+          "amount": "3 יחידות"
+        },
+        {
+          "nameHe": "סלרי",
+          "nameEn": "Celery",
+          "amount": "3 גבעולים"
+        },
+        {
+          "nameHe": "בצל",
+          "nameEn": "Onion",
+          "amount": "1 גדול"
+        },
+        {
+          "nameHe": "פטרוזיליה",
+          "nameEn": "Parsley",
+          "amount": "חופן"
+        },
+        {
+          "nameHe": "שמיר",
+          "nameEn": "Dill",
+          "amount": "חופן"
+        },
+        {
+          "nameHe": "מלח",
+          "nameEn": "Salt",
+          "amount": "2 כפיות"
+        },
+        {
+          "nameHe": "פלפל שחור",
+          "nameEn": "Black pepper",
+          "amount": "½ כפית"
+        }
+      ],
+      "stepsHe": [
+        "שטפו כרעי עוף היטב",
+        "שימו עוף בסיר גדול, כסו במים קרים",
+        "הביאו לרתיחה והסירו קצף",
+        "הוסיפו ירקות שלמים וחצי",
+        "בשלו על אש נמוכה 90 דקות",
+        "תבלו במלח ופלפל",
+        "הגישו עם נודלס או אורז"
+      ],
+      "stepsEn": [
+        "Wash chicken legs thoroughly",
+        "Place chicken in a large pot, cover with cold water",
+        "Bring to boil and remove foam",
+        "Add whole and halved vegetables",
+        "Simmer on low heat for 90 minutes",
+        "Season with salt and pepper",
+        "Serve with noodles or rice"
+      ]
+    },
+    {
+      "id": "r8",
+      "titleHe": "שניצל עוף קריספי",
+      "titleEn": "Crispy Chicken Schnitzel",
+      "descriptionHe": "שניצל עוף פריך ומוזהב בציפוי פירורי לחם",
+      "descriptionEn": "Crispy golden chicken schnitzel with breadcrumb coating",
+      "mealType": "dinner",
+      "cuisineType": "american",
+      "dietaryTags": [
+        "kosher"
+      ],
+      "prepTimeMinutes": 30,
+      "servings": 4,
+      "ingredients": [
+        {
+          "nameHe": "חזה עוף",
+          "nameEn": "Chicken breast",
+          "amount": "4 יחידות"
+        },
+        {
+          "nameHe": "פירורי לחם",
+          "nameEn": "Breadcrumbs",
+          "amount": "1 כוס"
+        },
+        {
+          "nameHe": "ביצים",
+          "nameEn": "Eggs",
+          "amount": "2 יחידות"
+        },
+        {
+          "nameHe": "קמח",
+          "nameEn": "Flour",
+          "amount": "½ כוס"
+        },
+        {
+          "nameHe": "מלח ופלפל",
+          "nameEn": "Salt & pepper",
+          "amount": "לפי טעם"
+        },
+        {
+          "nameHe": "פפריקה",
+          "nameEn": "Paprika",
+          "amount": "1 כפית"
+        },
+        {
+          "nameHe": "שמן לטיגון",
+          "nameEn": "Oil for frying",
+          "amount": "½ כוס"
+        }
+      ],
+      "stepsHe": [
+        "הוציאו עוף לעובי 1 ס\"מ",
+        "תבלו קמח עם מלח, פלפל ופפריקה",
+        "טרפו ביצים",
+        "עברו כל חזה בתוך קמח, ביצה ואז פירורי לחם",
+        "חממו שמן במחבת",
+        "טגנו 3-4 דקות מכל צד עד שיזהיב",
+        "הניחו על נייר סופג"
+      ],
+      "stepsEn": [
+        "Pound chicken to 1cm thickness",
+        "Season flour with salt, pepper and paprika",
+        "Whisk eggs",
+        "Coat each breast in flour, then egg, then breadcrumbs",
+        "Heat oil in a pan",
+        "Fry 3-4 minutes each side until golden",
+        "Drain on paper towels"
+      ]
+    },
+    {
+      "id": "r9",
+      "titleHe": "מוסקה יוונית",
+      "titleEn": "Greek Moussaka",
+      "descriptionHe": "מנה יוונית קלאסית עם חציל, בשר טחון ורוטב בשמל",
+      "descriptionEn": "Classic Greek dish with eggplant, ground meat and béchamel sauce",
+      "mealType": "dinner",
+      "cuisineType": "mediterranean",
+      "dietaryTags": [
+        "kosher"
+      ],
+      "prepTimeMinutes": 90,
+      "servings": 6,
+      "ingredients": [
+        {
+          "nameHe": "חציל",
+          "nameEn": "Eggplant",
+          "amount": "3 גדולים"
+        },
+        {
+          "nameHe": "בשר טחון",
+          "nameEn": "Ground beef",
+          "amount": "500 גרם"
+        },
+        {
+          "nameHe": "עגבניות מרוסקות",
+          "nameEn": "Crushed tomatoes",
+          "amount": "400 גרם"
+        },
+        {
+          "nameHe": "בצל",
+          "nameEn": "Onion",
+          "amount": "1 גדול"
+        },
+        {
+          "nameHe": "שמן זית",
+          "nameEn": "Olive oil",
+          "amount": "4 כפות"
+        },
+        {
+          "nameHe": "קינמון",
+          "nameEn": "Cinnamon",
+          "amount": "½ כפית"
+        },
+        {
+          "nameHe": "חלב",
+          "nameEn": "Milk",
+          "amount": "2 כוסות"
+        },
+        {
+          "nameHe": "קמח",
+          "nameEn": "Flour",
+          "amount": "3 כפות"
+        }
+      ],
+      "stepsHe": [
+        "חתכו חציל לפרוסות, מלחו והניחו 30 דקות",
+        "יבשו חציל וצלו בתנור ב-200 מעלות",
+        "טגנו בצל ובשר טחון עד שיתבשל",
+        "הוסיפו עגבניות, קינמון, מלח ופלפל",
+        "הכינו רוטב בשמל מחמאה, קמח וחלב",
+        "סדרו שכבות בתבנית: חציל, בשר, חציל",
+        "שפכו בשמל מעל",
+        "אפו ב-180 מעלות 45 דקות"
+      ],
+      "stepsEn": [
+        "Slice eggplant, salt and rest 30 minutes",
+        "Pat dry eggplant and roast at 200°C",
+        "Fry onion and ground beef until cooked",
+        "Add tomatoes, cinnamon, salt and pepper",
+        "Make béchamel sauce from butter, flour and milk",
+        "Layer in baking dish: eggplant, meat, eggplant",
+        "Pour béchamel on top",
+        "Bake at 180°C for 45 minutes"
+      ]
+    },
+    {
+      "id": "r10",
+      "titleHe": "דג סלמון בתנור",
+      "titleEn": "Oven Baked Salmon",
+      "descriptionHe": "פילה סלמון עם שמן זית, לימון ועשבי תיבול",
+      "descriptionEn": "Salmon fillet with olive oil, lemon and fresh herbs",
+      "mealType": "dinner",
+      "cuisineType": "mediterranean",
+      "dietaryTags": [
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 25,
+      "servings": 4,
+      "ingredients": [
+        {
+          "nameHe": "פילה סלמון",
+          "nameEn": "Salmon fillet",
+          "amount": "800 גרם"
+        },
+        {
+          "nameHe": "לימון",
+          "nameEn": "Lemon",
+          "amount": "2 יחידות"
+        },
+        {
+          "nameHe": "שמן זית",
+          "nameEn": "Olive oil",
+          "amount": "3 כפות"
+        },
+        {
+          "nameHe": "שום",
+          "nameEn": "Garlic",
+          "amount": "3 שיני"
+        },
+        {
+          "nameHe": "אזוב",
+          "nameEn": "Thyme",
+          "amount": "1 כף"
+        },
+        {
+          "nameHe": "מלח ופלפל",
+          "nameEn": "Salt & pepper",
+          "amount": "לפי טעם"
+        }
+      ],
+      "stepsHe": [
+        "חממו תנור ל-200 מעלות",
+        "הניחו סלמון בתבנית מרופדת נייר אפייה",
+        "ערבבו שמן זית, לימון, שום ואזוב",
+        "שפכו מרינדה על הסלמון",
+        "אפו 15-20 דקות",
+        "הגישו עם לימון טרי"
+      ],
+      "stepsEn": [
+        "Preheat oven to 200°C",
+        "Place salmon in a lined baking dish",
+        "Mix olive oil, lemon, garlic and thyme",
+        "Pour marinade over salmon",
+        "Bake 15-20 minutes",
+        "Serve with fresh lemon"
+      ]
+    },
+    {
+      "id": "r11",
+      "titleHe": "מוחיטו לימון ונענע",
+      "titleEn": "Lemon Mint Mojito (Virgin)",
+      "descriptionHe": "משקה קיץ מרענן עם לימון, נענע ומי סודה",
+      "descriptionEn": "Refreshing summer drink with lemon, mint and soda water",
+      "mealType": "cocktail",
+      "cuisineType": "american",
+      "dietaryTags": [
+        "vegan",
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 5,
+      "servings": 2,
+      "ingredients": [
+        {
+          "nameHe": "לימון",
+          "nameEn": "Lime",
+          "amount": "2 יחידות"
+        },
+        {
+          "nameHe": "נענע",
+          "nameEn": "Mint leaves",
+          "amount": "חופן"
+        },
+        {
+          "nameHe": "סוכר",
+          "nameEn": "Sugar",
+          "amount": "2 כפות"
+        },
+        {
+          "nameHe": "מי סודה",
+          "nameEn": "Soda water",
+          "amount": "400 מ\"ל"
+        },
+        {
+          "nameHe": "קרח",
+          "nameEn": "Ice",
+          "amount": "לפי הצורך"
+        }
+      ],
+      "stepsHe": [
+        "סחטו לימונים לתוך כוס",
+        "הוסיפו נענע וסוכר",
+        "מעכו קלות עם מעוך",
+        "הוסיפו קרח",
+        "מלאו במי סודה",
+        "קשטו עם עלי נענע ופרוסת לימון"
+      ],
+      "stepsEn": [
+        "Squeeze limes into a glass",
+        "Add mint and sugar",
+        "Muddle gently",
+        "Add ice",
+        "Fill with soda water",
+        "Garnish with mint leaves and lime slice"
+      ]
+    },
+    {
+      "id": "r12",
+      "titleHe": "לימונדה ביתית",
+      "titleEn": "Homemade Lemonade",
+      "descriptionHe": "לימונדה רעננה מלימונים סחוטים טרי עם נענע",
+      "descriptionEn": "Fresh squeezed lemonade with mint",
+      "mealType": "cocktail",
+      "cuisineType": "mediterranean",
+      "dietaryTags": [
+        "vegan",
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 10,
+      "servings": 4,
+      "ingredients": [
+        {
+          "nameHe": "לימון",
+          "nameEn": "Lemon",
+          "amount": "6 יחידות"
+        },
+        {
+          "nameHe": "מים",
+          "nameEn": "Water",
+          "amount": "1 ליטר"
+        },
+        {
+          "nameHe": "סוכר",
+          "nameEn": "Sugar",
+          "amount": "4 כפות"
+        },
+        {
+          "nameHe": "נענע",
+          "nameEn": "Mint",
+          "amount": "ענף"
+        }
+      ],
+      "stepsHe": [
+        "סחטו לימונים",
+        "הכינו שרוף סוכר: חממו מים וסוכר עד שייתמס",
+        "ערבבו מיץ לימון, שרוף סוכר ומים קרים",
+        "הוסיפו נענע",
+        "הגישו עם קרח"
+      ],
+      "stepsEn": [
+        "Squeeze lemons",
+        "Make simple syrup: heat water and sugar until dissolved",
+        "Mix lemon juice, simple syrup and cold water",
+        "Add mint",
+        "Serve with ice"
+      ]
+    },
+    {
+      "id": "r13",
+      "titleHe": "חומוס ביתי",
+      "titleEn": "Homemade Hummus",
+      "descriptionHe": "חומוס קרמי וחלק עם שמן זית, פפריקה ופינייה",
+      "descriptionEn": "Creamy smooth hummus with olive oil, paprika and pine nuts",
+      "mealType": "snack",
+      "cuisineType": "middle-eastern",
+      "dietaryTags": [
+        "vegan",
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 15,
+      "servings": 6,
+      "ingredients": [
+        {
+          "nameHe": "חומוס מבושל",
+          "nameEn": "Cooked chickpeas",
+          "amount": "400 גרם"
+        },
+        {
+          "nameHe": "טחינה",
+          "nameEn": "Tahini",
+          "amount": "3 כפות"
+        },
+        {
+          "nameHe": "שום",
+          "nameEn": "Garlic",
+          "amount": "2 שיני"
+        },
+        {
+          "nameHe": "לימון",
+          "nameEn": "Lemon",
+          "amount": "1 יחידה"
+        },
+        {
+          "nameHe": "שמן זית",
+          "nameEn": "Olive oil",
+          "amount": "3 כפות"
+        },
+        {
+          "nameHe": "מלח",
+          "nameEn": "Salt",
+          "amount": "לפי טעם"
+        },
+        {
+          "nameHe": "פפריקה",
+          "nameEn": "Paprika",
+          "amount": "לקישוט"
+        }
+      ],
+      "stepsHe": [
+        "שימו חומוס, טחינה, שום ולימון בפוד פרוססור",
+        "הפעילו עד לקבלת תערובת חלקה",
+        "הוסיפו מים קרים בהדרגה לקבלת מרקם רצוי",
+        "תבלו במלח",
+        "הגישו עם שמן זית ופפריקה"
+      ],
+      "stepsEn": [
+        "Place chickpeas, tahini, garlic and lemon in food processor",
+        "Blend until smooth",
+        "Add cold water gradually to achieve desired consistency",
+        "Season with salt",
+        "Serve with olive oil and paprika"
+      ]
+    },
+    {
+      "id": "r14",
+      "titleHe": "גואקמולה ביתי",
+      "titleEn": "Homemade Guacamole",
+      "descriptionHe": "גואקמולה טרי עם אבוקדו, עגבנייה ולימון",
+      "descriptionEn": "Fresh guacamole with avocado, tomato and lime",
+      "mealType": "snack",
+      "cuisineType": "american",
+      "dietaryTags": [
+        "vegan",
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 10,
+      "servings": 4,
+      "ingredients": [
+        {
+          "nameHe": "אבוקדו",
+          "nameEn": "Avocado",
+          "amount": "2 יחידות"
+        },
+        {
+          "nameHe": "עגבנייה",
+          "nameEn": "Tomato",
+          "amount": "1 יחידה"
+        },
+        {
+          "nameHe": "בצל",
+          "nameEn": "Onion",
+          "amount": "¼ יחידה"
+        },
+        {
+          "nameHe": "לימון",
+          "nameEn": "Lime",
+          "amount": "1 יחידה"
+        },
+        {
+          "nameHe": "כוסברה",
+          "nameEn": "Cilantro",
+          "amount": "חופן"
+        },
+        {
+          "nameHe": "מלח",
+          "nameEn": "Salt",
+          "amount": "לפי טעם"
+        }
+      ],
+      "stepsHe": [
+        "פתחו אבוקדו והוציאו גלעין",
+        "כתשו אבוקדו במזלג",
+        "קצצו עגבנייה, בצל וכוסברה",
+        "ערבבו הכל עם מיץ לימון",
+        "תבלו במלח",
+        "הגישו מיד עם נחוסים"
+      ],
+      "stepsEn": [
+        "Halve avocados and remove pit",
+        "Mash avocado with a fork",
+        "Dice tomato, onion and cilantro",
+        "Mix everything with lime juice",
+        "Season with salt",
+        "Serve immediately with chips"
+      ]
+    },
+    {
+      "id": "r15",
+      "titleHe": "ברוסקטה עם עגבנייה",
+      "titleEn": "Tomato Bruschetta",
+      "descriptionHe": "לחם קלוי עם עגבנייה טרייה, שום ובזיליקום",
+      "descriptionEn": "Toasted bread with fresh tomato, garlic and basil",
+      "mealType": "snack",
+      "cuisineType": "italian",
+      "dietaryTags": [
+        "vegan",
+        "kosher"
+      ],
+      "prepTimeMinutes": 15,
+      "servings": 4,
+      "ingredients": [
+        {
+          "nameHe": "לחם חלה",
+          "nameEn": "Challah bread",
+          "amount": "½ כיכר"
+        },
+        {
+          "nameHe": "עגבנייה",
+          "nameEn": "Tomato",
+          "amount": "3 יחידות"
+        },
+        {
+          "nameHe": "שום",
+          "nameEn": "Garlic",
+          "amount": "2 שיני"
+        },
+        {
+          "nameHe": "בזיליקום",
+          "nameEn": "Basil",
+          "amount": "חופן עלים"
+        },
+        {
+          "nameHe": "שמן זית",
+          "nameEn": "Olive oil",
+          "amount": "3 כפות"
+        },
+        {
+          "nameHe": "מלח",
+          "nameEn": "Salt",
+          "amount": "לפי טעם"
+        }
+      ],
+      "stepsHe": [
+        "פרסו לחם לפרוסות עבות",
+        "צלו לחם בתנור ב-200 מעלות 5 דקות",
+        "שפשפו לחם חם עם שן שום",
+        "קצצו עגבניות דק",
+        "ערבבו עגבנייה עם שמן זית, מלח ובזיליקום",
+        "הניחו תוספת על הלחם"
+      ],
+      "stepsEn": [
+        "Slice bread into thick slices",
+        "Toast bread in oven at 200°C for 5 minutes",
+        "Rub hot bread with a garlic clove",
+        "Finely dice tomatoes",
+        "Mix tomato with olive oil, salt and basil",
+        "Pile topping on bread"
+      ]
+    },
+    {
+      "id": "r16",
+      "titleHe": "ביצה קשה עם טחינה",
+      "titleEn": "Hard Boiled Egg with Tahini",
+      "descriptionHe": "חטיף ישראלי קלאסי - ביצה קשה עם טחינה ופלפל",
+      "descriptionEn": "Classic Israeli snack - hard boiled egg with tahini and pepper",
+      "mealType": "snack",
+      "cuisineType": "middle-eastern",
+      "dietaryTags": [
+        "vegetarian",
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 12,
+      "servings": 2,
+      "ingredients": [
+        {
+          "nameHe": "ביצים",
+          "nameEn": "Eggs",
+          "amount": "4 יחידות"
+        },
+        {
+          "nameHe": "טחינה",
+          "nameEn": "Tahini",
+          "amount": "3 כפות"
+        },
+        {
+          "nameHe": "לימון",
+          "nameEn": "Lemon",
+          "amount": "½ יחידה"
+        },
+        {
+          "nameHe": "מלח ופלפל",
+          "nameEn": "Salt & pepper",
+          "amount": "לפי טעם"
+        }
+      ],
+      "stepsHe": [
+        "הניחו ביצים בסיר עם מים קרים",
+        "הביאו לרתיחה ובשלו 10 דקות",
+        "העבירו לקערת קרח 5 דקות",
+        "קלפו ביצים וחתכו לחצאים",
+        "ערבבו טחינה עם מיץ לימון ומעט מים",
+        "הגישו עם רוטב טחינה"
+      ],
+      "stepsEn": [
+        "Place eggs in pot with cold water",
+        "Bring to boil and cook 10 minutes",
+        "Transfer to ice bath for 5 minutes",
+        "Peel eggs and cut in half",
+        "Mix tahini with lemon juice and a little water",
+        "Serve with tahini sauce"
+      ]
+    },
+    {
+      "id": "r17",
+      "titleHe": "סחוג ביתי",
+      "titleEn": "Homemade Schug (Hot Sauce)",
+      "descriptionHe": "רוטב ירוק חריף מסורתי תימני עם כוסברה ושום",
+      "descriptionEn": "Traditional Yemenite spicy green sauce with cilantro and garlic",
+      "mealType": "snack",
+      "cuisineType": "middle-eastern",
+      "dietaryTags": [
+        "vegan",
+        "kosher",
+        "no-gluten"
+      ],
+      "prepTimeMinutes": 10,
+      "servings": 8,
+      "ingredients": [
+        {
+          "nameHe": "פלפל ירוק חריף",
+          "nameEn": "Hot green peppers",
+          "amount": "10 יחידות"
+        },
+        {
+          "nameHe": "כוסברה",
+          "nameEn": "Cilantro",
+          "amount": "צרור שלם"
+        },
+        {
+          "nameHe": "שום",
+          "nameEn": "Garlic",
+          "amount": "1 ראש"
+        },
+        {
+          "nameHe": "כמון",
+          "nameEn": "Cumin",
+          "amount": "1 כפית"
+        },
+        {
+          "nameHe": "שמן זית",
+          "nameEn": "Olive oil",
+          "amount": "3 כפות"
+        },
+        {
+          "nameHe": "מלח",
+          "nameEn": "Salt",
+          "amount": "1 כפית"
+        }
+      ],
+      "stepsHe": [
+        "שטפו פלפלים וכוסברה",
+        "הכניסו הכל לפוד פרוססור",
+        "הפעילו עד לקבלת מרקם גס",
+        "הוסיפו שמן זית ומלח",
+        "שמרו בצנצנת בקירור עד שבועיים"
+      ],
+      "stepsEn": [
+        "Wash peppers and cilantro",
+        "Put everything in a food processor",
+        "Pulse until coarsely ground",
+        "Add olive oil and salt",
+        "Store in a jar in the fridge for up to 2 weeks"
+      ]
+    }
+  ]
+}
