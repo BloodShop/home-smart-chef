@@ -158,6 +158,7 @@ export default function SubscriptionTierScreen() {
               styles.secondaryButton,
               !hasPaypalLink && styles.secondaryButtonDisabled,
             ]}
+            disabled={!hasPaypalLink}
             onPress={activateTierLocally}
           >
             <Text style={styles.secondaryButtonText}>{copy.activateLabel}</Text>
