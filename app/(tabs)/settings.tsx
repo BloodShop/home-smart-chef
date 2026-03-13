@@ -8,6 +8,7 @@ import {
   SafeAreaView,
   Alert,
 } from 'react-native';
+import { useRouter } from 'expo-router';
 import {
   UserProfile,
   DietaryPreference,
@@ -39,6 +40,7 @@ const CUISINE_OPTIONS: { key: CuisinePreference; he: string; en: string }[] = [
 ];
 
 export default function SettingsScreen() {
+  const router = useRouter();
   const [profile, setProfile] = useState<UserProfile | null>(null);
   const [lang, setLang] = useState<Language>('he');
   const [contentStatus, setContentStatus] = useState({
@@ -110,15 +112,7 @@ export default function SettingsScreen() {
       update({ tier });
       return;
     }
-
-    Alert.alert(
-      'שדרוג מנוי',
-      `תכנית ${TIER_CONFIGS[tier].nameHe} עולה ${TIER_CONFIGS[tier].price}.\nחיוב יתווסף בקרוב (פיצ'ר בפיתוח)`,
-      [
-        { text: 'ביטול', style: 'cancel' },
-        { text: 'הפעל', onPress: () => update({ tier }) },
-      ]
-    );
+    router.push(`/subscription/${tier}`);
   }
 
   function handleResetOnboarding() {

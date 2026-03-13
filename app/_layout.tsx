@@ -27,6 +27,10 @@ export default function RootLayout() {
         <Stack.Screen name="onboarding" options={{ headerShown: false }} />
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
         <Stack.Screen
+          name="subscription/[tier]"
+          options={{ title: 'מנוי ותשלום', headerBackTitle: 'חזור' }}
+        />
+        <Stack.Screen
           name="recipe/[id]"
           options={{ title: 'מתכון', headerBackTitle: 'חזור' }}
         />

@@ -2,6 +2,7 @@
   "expo": {
     "name": "HomeSmartChef",
     "slug": "home-smart-chef",
+    "owner": "bloodshop1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -36,6 +37,14 @@
       "router": {},
       "contentBaseUrl": "https://bloodshop.github.io/home-smart-chef",
       "feedbackEndpoint": "",
+      "expoAccount": {
+        "username": "bloodshop1",
+        "email": "koliakovcr7+1@gmail.com"
+      },
+      "paypalLinks": {
+        "basic": "",
+        "premium": ""
+      },
       "eas": {
         "projectId": "cc982ad3-d8c7-41cf-b0ca-3d44bb2c6568"
       }

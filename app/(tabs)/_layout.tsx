@@ -27,7 +27,7 @@ export default function TabsLayout() {
         options={{
           title: 'בית',
           tabBarIcon: ({ focused }) => <TabIcon emoji="🏠" focused={focused} />,
-          headerTitle: 'HomeSmartChef 🍳',
+          headerShown: false,
         }}
       />
       <Tabs.Screen

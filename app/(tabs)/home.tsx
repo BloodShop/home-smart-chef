@@ -166,24 +166,26 @@ export default function HomeScreen() {
         <Text style={styles.assistantText}>{assistantText || 'טוען המלצה אישית...'}</Text>
       </View>
 
-      <ScrollView
-        horizontal
-        showsHorizontalScrollIndicator={false}
-        style={styles.tabScroll}
-        contentContainerStyle={styles.tabContainer}
-      >
-        {MEAL_TABS.map(({ key, label }) => (
-          <TouchableOpacity
-            key={key}
-            style={[styles.tab, activeMeal === key && styles.tabActive]}
-            onPress={() => setActiveMeal(key)}
-          >
-            <Text style={[styles.tabText, activeMeal === key && styles.tabTextActive]}>
-              {label}
-            </Text>
-          </TouchableOpacity>
-        ))}
-      </ScrollView>
+      <View style={styles.tabWrapper}>
+        <ScrollView
+          horizontal
+          showsHorizontalScrollIndicator={false}
+          style={styles.tabScroll}
+          contentContainerStyle={styles.tabContainer}
+        >
+          {MEAL_TABS.map(({ key, label }) => (
+            <TouchableOpacity
+              key={key}
+              style={[styles.tab, activeMeal === key && styles.tabActive]}
+              onPress={() => setActiveMeal(key)}
+            >
+              <Text style={[styles.tabText, activeMeal === key && styles.tabTextActive]}>
+                {label}
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </ScrollView>
+      </View>
 
       {limitReached && (
         <View style={styles.limitBanner}>
@@ -285,7 +287,15 @@ const styles = StyleSheet.create({
     lineHeight: 22,
     textAlign: 'right',
   },
-  tabScroll: { maxHeight: 56 },
+  tabWrapper: {
+    backgroundColor: '#FFF8F3',
+    zIndex: 3,
+    elevation: 3,
+  },
+  tabScroll: {
+    maxHeight: 56,
+    backgroundColor: '#FFF8F3',
+  },
   tabContainer: {
     paddingHorizontal: 16,
     paddingVertical: 8,
